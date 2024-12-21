@@ -1,0 +1,8 @@
+Promise takrorlash
+
+30 min typing
+
+Ulug'bek Samigjonovning JS darslaridan DOM qismini ko'rib kelish
+
+RestCountries API orqali istalgan davlat ma'lumotini oluvchi funksiya tuzing
+olib kelingan davlatning 1-qo'shinisining 1-qo'shinisining 2-qo'shnisini ma'lumotlarini ekranga chiqaring

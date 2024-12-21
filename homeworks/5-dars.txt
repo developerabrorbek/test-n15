@@ -1,0 +1,13 @@
+BooksController nomli class yaratilsin va unda
+Berilgan API orqali barcha kitoblar olib kelinsin
+
+API:   https://www.freetestapi.com/api/v1/books
+
+
+methodlar: 
+ - getAllBooks()
+ - getSingleBookById(id) -> topilmasa 404
+ - getSingleBookByName(title) -> topilmasa 404
+ - searchBooks(title)
+ - filterBooks(title, author, publication_year, genre)
+ - sortBooks ("DESC" | "ASC", tanlov) -> tanlov : publication_year, genre, author 

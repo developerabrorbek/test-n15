@@ -1,0 +1,25 @@
+1. Avtomobil Sinfi
+Avtomobil nomli sinf yarating, uning quyidagi xususiyatlari va metodlari bo‘lsin:
+Xususiyatlar: model, yil, narx.
+Metodlar: ta'rif() — bu metod avtomobil haqida matn shaklida ma'lumot qaytarishi kerak.
+Foydalanuvchi ushbu sinf yordamida avtomobil yaratishi va uning ta'rifini olishi mumkin bo‘lsin.
+2. Hisoblagich Sinfi
+Hisoblagich nomli sinf yarating.
+Xususiyat: qiymat.
+Metodlar: orttir(), kamaytir(), va ol().
+Hisoblagich qiymatini oshirish, kamaytirish va olish imkoniyatini ta'minlang.
+3. Bank Hisobi Sinfi
+BankHisobi nomli sinf yarating, quyidagi funksionallikni qo‘shing:
+Xususiyatlar: mijoz, balans.
+Metodlar: pulQo‘sh(), pulChiqar(), va balansniKo‘r().
+Har bir metod balansni mos ravishda o‘zgartirsin.
+4. To‘rtburchak Sinfi
+To‘rtburchak nomli sinf yarating.
+Xususiyatlar: uzunlik, kenglik.
+Metodlar: yuza(), perimetr().
+To‘rtburchak yuzasi va perimetrini hisoblash imkonini bering.
+5. Talaba Sinfi
+Talaba nomli sinf yarating.
+Xususiyatlar: ism, kurs, baholar.
+Metodlar: qo‘shBaholar(), o‘rtachaBaholar().
+Talabaning baholarini qo‘shish va o‘rtacha hisoblash funksiyalarini yozing

@@ -1,0 +1,93 @@
+1. Kutubxona boshqaruv tizimi
+Book nomli sinf yarating. Unda title (nomi), author (muallif) va isbn (kitobning identifikatori) xususiyatlari bo‘lsin. Metodlar:
+
+Kitobni qarzga olish (kitobni qarzga olindi deb belgilang).
+Kitobni qaytarish (kitobni mavjud deb belgilang).
+Library sinfini yarating, u bir nechta kitoblarni boshqarishi kerak va quyidagi metodlarni taqdim etadi:
+
+Yangi kitob qo‘shish.
+Kitobni nomi yoki muallifiga qarab qidirish.
+
+2. Bank hisob tizimi
+BankAccount nomli sinf yarating, unda accountNumber (hisob raqami), balance (qoldiq) va accountHolder (hisob egasi) xususiyatlari bo‘lsin. Metodlar:
+Pul kiritish.
+Pul yechib olish (yetarli mablag‘ borligini tekshiring).
+Pulni boshqa hisobga o‘tkazish (boshqa BankAccount obyektiga).
+
+
+3. Transport vositalari vorisligi
+Vehicle nomli asosiy sinfni yarating, unda make (brendi), model va year (chiqarilgan yili) xususiyatlari bo‘lsin.
+Car va Bike sinflarini yarating, ular Vehicle sinfidan vorislik olsin.
+Car uchun numberOfDoors (eshiklar soni).
+Bike uchun hasCarrier (yuk tashuvchi bor/yo‘qligi) xususiyatlarini qo‘shing.
+
+
+4. Ombor boshqaruvi
+Product nomli sinf yarating, unda name (mahsulot nomi), price (narxi) va stockQuantity (ombordagi miqdor) xususiyatlari bo‘lsin. Metodlar:
+
+Ombor miqdorini yangilash.
+Ombordagi umumiy mahsulot qiymatini hisoblash.
+Inventory sinfini yarating, u mahsulotlarni boshqarishi va quyidagilarni amalga oshirishi kerak:
+
+Mahsulot qo‘shish.
+Mahsulotni nomi bo‘yicha o‘chirish.
+Eng ko‘p miqdordagi mahsulotni topish.
+
+
+5. Online kurs platformasi
+Course sinfini yarating, unda name (kurs nomi), instructor (o‘qituvchi) va duration (davomiyligi) xususiyatlari bo‘lsin. Metodlar:
+
+Talabani ro‘yxatdan o‘tkazish.
+Talabani ro‘yxatdan chiqarish.
+Barcha ro‘yxatdan o‘tgan talabalarni ko‘rsatish.
+Platform sinfini yarating, u bir nechta kurslarni boshqarishi va quyidagi imkoniyatlarni taqdim etishi kerak:
+
+Kurs qo‘shish.
+Barcha kurslarni ko‘rsatish.
+O‘qituvchi bo‘yicha kurslarni topish.
+
+
+6. Film chiptasi bron qilish
+Movie sinfini yarating, unda title (nomi), rating (reyting) va seatsAvailable (mavjud joylar soni) xususiyatlari bo‘lsin. Metodlar:
+Chipta bron qilish (joylar sonini kamaytirish).
+Bronni bekor qilish (joylar sonini oshirish).
+Mavjud joylarni tekshirish.
+
+
+7. Chat ilovasi
+User sinfini yarating, unda username va status (onlayn yoki offlayn) xususiyatlari bo‘lsin.
+ChatRoom sinfini yarating, u foydalanuvchilarni boshqarishi kerak. Metodlar:
+Foydalanuvchini xonaga qo‘shish.
+Foydalanuvchini xonadan o‘chirish.
+Xonadagi xabarlarni (kim yuborganini ko‘rsatib) chiqarish.
+
+
+8. Vazifa boshqaruvi
+Task sinfini yarating, unda name (nomi), deadline (muddati) va status (bajarilgan yoki bajarilmagan) xususiyatlari bo‘lsin. Metodlar:
+
+Vazifani bajarilgan deb belgilash.
+Muddatni yangilash.
+TaskManager sinfini yarating, u bir nechta vazifalarni boshqarishi kerak. Metodlar:
+
+Vazifa qo‘shish.
+Vazifani nomi bo‘yicha o‘chirish.
+Bajarilmagan vazifalarni ko‘rsatish.
+
+
+9. Viktorina ilovasi
+Question sinfini yarating, unda text (savol matni), choices (variantlar) va correctAnswerIndex (to‘g‘ri javob indeksi) xususiyatlari bo‘lsin. Metodlar:
+
+Berilgan javob to‘g‘riligini tekshirish.
+Quiz sinfini yarating, u savollarni boshqarishi kerak. Metodlar:
+
+Savol qo‘shish.
+Savolni matni bo‘yicha o‘chirish.
+Viktorina boshlash va natijalarni hisoblash.
+
+
+10. Xarid savati
+CartItem sinfini yarating, unda productName (mahsulot nomi), quantity (miqdor) va pricePerUnit (birlik narxi) xususiyatlari bo‘lsin.
+ShoppingCart sinfini yarating, u savatni boshqarishi va quyidagilarni amalga oshirishi kerak:
+Savatga mahsulot qo‘shish.
+Mahsulotni nomi bo‘yicha o‘chirish.
+Savatdagi mahsulotlarning umumiy qiymatini hisoblash.

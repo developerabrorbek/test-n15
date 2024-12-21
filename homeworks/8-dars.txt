@@ -1,0 +1,14 @@
+1. Matnni O'zgartirish
+Bir tugma yarating. Tugma bosilganda <p> tegi ichidagi matn "Salom"dan "Xayr"ga o‘zgarsin.
+
+2. Fon Rangini O‘zgartirish
+Tugma qo‘shing. Tugma bosilganda <body> fon rangi har safar tasodifiy rangga o‘zgarsin.
+
+3. Elementni Yashirish
+Rasm (<img>) qo‘shing va tugma bosinganda rasm ko‘rinmas bo‘lib qolsin.
+
+4. Kiritilgan Qiymatni Ko‘rsatish
+Input maydon va tugma qo‘shing. Tugma bosilganda input ichidagi qiymat pastdagi <span>da ko‘rsatiladigan bo‘lsin.
+
+5. Counter(Hisoblash) Tugmasi
+Ikki tugma yarating: biri hisoblagichni oshiradi, ikkinchisi kamaytiradi. Hozirgi hisoblagich qiymati <div>da ko‘rsatiladi.

@@ -1,0 +1,18 @@
+Fetch API orqali https://restcountries.com/v3.1/region/africa kabi API orqali barcha davlatlarni olib kelish
+
+Ularni Qit'a bo'yicha ekranga chiqarish:
+Misol: 
+
+
+6 ta qit'a :
+
+
+Afrikadagi davlatlar(56ta):
+
+- rasm
+- nomi
+
+Yevropadagi davlatlar(56ta):
+
+- rasm
+- nomi

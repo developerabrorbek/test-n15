@@ -1,0 +1,15 @@
+// Topshiriq.
+// User sinfini yarating
+// xususiyatlar: ism, password, username, email
+
+// UserController sinf yaratamiz
+// methodlar: addUser, login
+// login (username, password) qilganda agar foydalanuvchi ma'lumoti topilmasa -> NotFoundException
+// addUser qilganda agar bu foydalanuvchi bo'lsa -> ConflictException (409)
+
+// Masala
+// Book nomli sinf(class) yarating
+// xususiyatlari: title, description, author, year, price, count
+
+// BookController nomli sinf(class) yarating
+// metodlari: addBooks, updateBook, deleteBook, getBooks, getSingleBook, searchBooks, getAuthorBooks
