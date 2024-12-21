@@ -191,3 +191,4 @@ console.log(response1);
 // const result = numbers.reduceRight((acc, n) => acc - n, 12)
 
 // console.log(result)
+console.log("version 2")
